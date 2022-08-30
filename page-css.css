@@ -1,0 +1,59 @@
+@charset "utf-8";
+body {
+	margin: 0;
+	background: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.main-header {
+	display: flex;
+	background: black;
+	padding: 20px;
+}
+.site-logo {
+	width: 30%;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.main-menu {
+	width: 70%;
+	text-align: right;
+}
+.main-menu a {
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+.main-content {
+	padding: 20px;
+}
+.main-content h1 {
+	color: white;
+	font-size: 10rem;
+	text-transform: uppercase; 
+}
+#lion {
+	height: 100vh;
+	background-image: url("Images/largelion.png");
+	background-size: cover;
+}
+#tiger {
+	height: 100vh;
+	background-image: url("Images/tiger.png");
+	background-size: cover;
+}
+#jaguar {
+	height: 100vh;
+	background-image: url("Images/jaguar.png");
+	background-size: cover;
+}
+#housecat {
+	height: 100vh;
+	background-image: url("Images/housecat.png");
+	background-size: cover;
+}
+#allcats {
+	height: 100vh;
+	background-image: url("Images/loadsofcats.png");
+	background-size: cover;
+}
