@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../page-css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header class="main-header">
+	<div class="site-logo">MakeUseOf Example Site</div>
+  <nav class="main-menu">
+	<a href="../Home.html">Home</a><a href="../Lion.html">Lion</a><a href="../Tiger.html">Tiger</a><a href="../Jaguar.html">Jaguar</a><a href="../House Cat.html">House Cat</a>
+	</nav>
+</header>
+<!-- TemplateBeginEditable name="MainContentRegion" -->
+<div class="main-content" id="lion">
+	<h1>This is a lion!</h1>
+</div>
+<!-- TemplateEndEditable -->
+</body>
+</html>
